@@ -1,7 +1,7 @@
 # AdStackr
--Automates Dynamic Content Optimization (DCO)
-Most ad stacks already automate bidding, targeting, and budgeting.[^1]
-But when it comes to turning creative insights into what to do next, that’s still a manual, subjective process — which doesn’t scale when you’re managing hundreds of ads across multiple campaigns.[^2][^3][^4]
+## Automates Dynamic Content Optimization (DCO)<br>
+Most ad stacks already automate bidding, targeting, and budgeting.[^1]<br>
+But when it comes to turning creative insights into what to do next, that’s still a manual, subjective process — which doesn’t scale when you’re managing hundreds of ads across multiple campaigns.[^2][^3][^4]<br>
 AdStackr automates that step, so you get data-driven decisions and better ads live faster, even as your creative footprint grows.[^2][^1]
 
 <span style="display:none">[^10][^11][^12][^13][^14][^15][^5][^6][^7][^8][^9]</span>
